@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="531"/>
+		<item key="DIALOG_Y_ORIGIN" value="304"/>
+	</section>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="PaymentResponse"/>
+			<item value=".claim(&quot;userId&quot;, userId)"/>
+			<item value="exchange"/>
+			<item value="string username"/>
+		</list>
+	</section>
+</section>
